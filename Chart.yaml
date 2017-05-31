@@ -1,7 +1,7 @@
 name: mxnet-tutorial-gpu
 home: https://github.com/lsheiba/mxnet-tutorial-gpu.git
 version: 1.0.0
-description: Tensorflow Jupyter Notebook
+description: mxnet jupyter tutorials
 sources:
   - https://github.com/lsheiba/mxnet-tutorial-gpu.git
 maintainers:
