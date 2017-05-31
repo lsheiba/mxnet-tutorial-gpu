@@ -1,1 +1,1 @@
-# tensorflow-jupyter-gpu
+# mxnet-tutorial-gpu
